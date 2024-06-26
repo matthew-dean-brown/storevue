@@ -47,7 +47,7 @@ export default createStore({
       commit('setSkills',skills)
       commit('setWorkExp',workExp)
       commit('setProjects',projects)
-
+// comment
     }
   },
   modules: {
